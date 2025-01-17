@@ -1,2 +1,4 @@
 # first-repo
-This is science blog which contains which contains some  science experiments and science discoveries.
+This is Mehak.
+Currently doing Bachelors of computer science at UAF.
+Doing Web development .
